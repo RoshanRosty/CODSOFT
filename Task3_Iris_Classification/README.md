@@ -72,4 +72,4 @@ This project demonstrates a basic classification problem using machine learning.
 
 ### 👨‍💻 Author
 
-* Roshan Rajesh Pauskar
+**Roshan Rajesh Pauskar**
