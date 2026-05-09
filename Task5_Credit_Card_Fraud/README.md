@@ -61,7 +61,3 @@ This project demonstrates how machine learning can be used to detect fraud in fi
 
 ## 👨‍💻 Author
 **Roshan Rajesh Pauskar**
-
-
-## 📎 GitHub Repository
-(Add your repo link here)
