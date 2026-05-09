@@ -21,7 +21,7 @@ To predict whether a passenger survived or not using machine learning.
 - Evaluated accuracy
 
 ### 📊 Result
-- Logistic Regression Accuracy: XX%
+- Logistic Regression Accuracy: 0.8212290502793296%
 - Random Forest Accuracy: XX%
 
 ### 📁 Files
